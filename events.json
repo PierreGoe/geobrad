@@ -1,0 +1,4113 @@
+{
+  "scraped_at": "2026-04-13T12:56:24.148Z",
+  "total_events": 81,
+  "events": [
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/corbehem/01-SPF-Vetement.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62112",
+      "city": "Corbehem",
+      "cityUrl": "https://www.corbehem.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vêtements",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle des fêtes31 rue de la Mairie62112 Corbehem Toilettes Publiquesaccessibles a",
+      "scheduledDates": [
+        "mardi 14 avril",
+        "mercredi 15 avril",
+        "samedi 30 mai"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "8h00–16h00"
+      ],
+      "pastEditions": [
+        "Mardi 14 Avril 2023 de 8h00 à 18h00",
+        "Mercredi 15 Avril 2023 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Seul, l'organisateur expose",
+      "facebookUrl": "https://www.facebook.com/SPCorbehem/",
+      "updatedAt": "21/02/2026",
+      "createdAt": "21/02/2026",
+      "appearances": [
+        {
+          "date": "2026-04-14",
+          "label": "Corbehem",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courrieres/01-APEL-Clair-04-Avril-enfant.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62710",
+      "city": "Courrieres",
+      "cityUrl": "https://fr.wikipedia.org/wiki/Courri%C3%A8res",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vêtements",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue Aristide Briandquartier Louisiane62710 Courrieres 80 exposants Toilettes Publiqu",
+      "scheduledDates": [
+        "samedi 18 avril",
+        "dimanche 10 mai",
+        "samedi 30 mai",
+        "dimanche 7 juin",
+        "samedi 5 septembre"
+      ],
+      "openingHours": [
+        "9h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 18 Avril 2026 de 9h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/apel.clair.accueil.courrieres/?locale=fr_FR",
+      "updatedAt": "02/04/2026",
+      "createdAt": "02/04/2026",
+      "appearances": [
+        {
+          "date": "2026-04-17",
+          "label": "Courrieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cassel/01-Collectionneurs-du-Pays-de-Cassel-04-Avril-collection.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59670",
+      "city": "Cassel",
+      "cityUrl": "http://www.cassel.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "salle des fêtes13 rue Desmyttere59670 Cassel cr",
+      "scheduledDates": [
+        "samedi 17 janvier",
+        "dimanche 19 avril",
+        "dimanche 30 Aout"
+      ],
+      "openingHours": [
+        "9h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 19 Avril 2026 de 9h00 à 17h00"
+      ],
+      "exhibitors": "Bourse toutes collections Inscription réservée aux particuliers Prix emplacement6,00  le m AVEC réservation",
+      "facebookUrl": "https://www.facebook.com/groups/411788348932639/",
+      "updatedAt": "23/12/2025",
+      "appearances": [
+        {
+          "date": "2026-04-18",
+          "label": "Cassel",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cartignies/01-c-dans-l-art-04-Avril-peche.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59244",
+      "city": "Cartignies",
+      "cityUrl": "https://www.cartignies.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "art",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59244 Cartignies Agenda",
+      "scheduledDates": [
+        "dimanche 19 avril"
+      ],
+      "openingHours": [
+        "9h00–16h30"
+      ],
+      "pastEditions": [
+        "Dimanche 19 Avril 2026 de 9h00 à 16h30"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "24/11/2025",
+      "appearances": [
+        {
+          "date": "2026-04-18",
+          "label": "Cartignies",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calais/01-Coxwenn-Club-04-Avril-vide-greniers.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62100",
+      "city": "Calais",
+      "cityUrl": "https://www.calais.fr/fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62100 Calais Agenda",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 19 avril",
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "samedi 4 juillet",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "7h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 19 Avril 2026 de 7h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/people/Coxwenn-Club/100027129293246/",
+      "updatedAt": "16/03/2026",
+      "createdAt": "16/03/2026",
+      "appearances": [
+        {
+          "date": "2026-04-18",
+          "label": "Calais",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/69-rhone/c/Craponne/01-Tandem-Events-04-Avril-Geek.php",
+      "departmentCode": "69",
+      "departmentSlug": "rhone",
+      "departmentLabel": "69 Rhône",
+      "postalCode": "69290",
+      "city": "Craponne",
+      "cityUrl": "https://www.mairie-craponne.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "espace Rebuffat2 rue des Terres Plates69290 Craponne 100 exposants Toilettes Publique",
+      "scheduledDates": [
+        "dimanche 19 avril"
+      ],
+      "openingHours": [
+        "9h00–17h00",
+        "17h00–20h00"
+      ],
+      "pastEditions": [
+        "Dimanche 19 Avril 2026 de 9h00 à 17h00",
+        "Samedi 18 Avril 2026 de 17h00 à 20h00"
+      ],
+      "exhibitors": "Broc'Land Geek Installation Samedi 18 Avril 2026 de 17h00 à 20h00 Inscription ouverte à tous AVEC réservation",
+      "facebookUrl": "https://www.facebook.com/events/2070950173662686",
+      "updatedAt": "29/03/2026",
+      "createdAt": "29/03/2026",
+      "appearances": [
+        {
+          "date": "2026-04-18",
+          "label": "69 Craponne",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/cauchy-a-la-tour/01-Conseil-Citoyen-04-Avril-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62260",
+      "city": "Cauchy A la Tour",
+      "cityUrl": "http://fr.wikipedia.org/wiki/Cauchy_A_La_Tour",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62260 Cauchy A la Tour l",
+      "scheduledDates": [
+        "samedi 25 avril",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "8h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 25 Avril 2026 de 8h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/villedecauchyalatour/",
+      "updatedAt": "09/01/2026",
+      "appearances": [
+        {
+          "date": "2026-04-24",
+          "label": "Cauchy A la Tour",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/carnin/01-Carnin-en-Fete-05-Mai-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59112",
+      "city": "Carnin",
+      "cityUrl": "https://www.carnin.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "jouet",
+        "disques",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "59112 Carnin Agenda",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "samedi 10 octobre",
+        "samedi 8 novembre"
+      ],
+      "openingHours": [
+        "8h00–16h00"
+      ],
+      "pastEditions": [
+        "Vendredi 1 Mai 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/photo/?fbid=1479043100680756&set=a.139877391264007",
+      "updatedAt": "03/04/2026",
+      "createdAt": "03/04/2026",
+      "appearances": [
+        {
+          "date": "2026-04-30",
+          "label": "Carnin",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calonne-ricouart/01-CAAC-99-Fete-du-Travail-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62470",
+      "city": "Calonne Ricouart",
+      "cityUrl": "https://www.calonne-ricouart.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marche aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62470 Calonne Ricouart sa page FaceBook Agenda",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "dimanche 7 juin",
+        "dimanche 14 juin",
+        "dimanche 25 octobre"
+      ],
+      "openingHours": [
+        "7h00–17h00"
+      ],
+      "pastEditions": [
+        "Vendredi 1 Mai 2026 de 7h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/VilleCalonneRicouartOfficiel/?locale=fr_FR",
+      "updatedAt": "12/04/2026",
+      "createdAt": "12/04/2026",
+      "appearances": [
+        {
+          "date": "2026-04-30",
+          "label": "Calonne Ricouart",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courcelles-le-comte/01-Fetes-et-Loisirs-05-Mai-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62121",
+      "city": "Courcelles le Comte",
+      "cityUrl": "https://www.courcelles-le-comte.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62121 Courcelles le Comte Agenda",
+      "scheduledDates": [
+        "vendredi 1 mai"
+      ],
+      "openingHours": [
+        "9h00–17h00",
+        "17h00–19h00"
+      ],
+      "pastEditions": [
+        "Vendredi 1 Mai 2026 de 9h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "04/03/2026",
+      "createdAt": "04/03/2026",
+      "appearances": [
+        {
+          "date": "2026-04-30",
+          "label": "Courcelles le Comte",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/capinghem/01-APEIC-05-Mai-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59160",
+      "city": "Capinghem",
+      "cityUrl": "https://capinghem.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "59160 Capinghem Agenda",
+      "scheduledDates": [
+        "dimanche 3 mai"
+      ],
+      "openingHours": [
+        "8h00–14h00"
+      ],
+      "pastEditions": [
+        "Dimanche 3 Mai 2026 de 8h00 à 14h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/apeic.capinghem/",
+      "updatedAt": "02/03/2026",
+      "createdAt": "02/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-02",
+          "label": "Capinghem",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/caudry/00-Secours-Populaire.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59540",
+      "city": "Caudry",
+      "cityUrl": "https://www.caudry.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vêtements",
+        "jouets",
+        "disques",
+        "jouet",
+        "livre",
+        "multi"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle polyvalenteLe Val du Riotrue Ampère59540 CAUDRY Toilettes Publiquesaccessibles aux",
+      "scheduledDates": [
+        "samedi 4 avril",
+        "samedi 11 avril",
+        "dimanche 3 mai",
+        "samedi 23 mai"
+      ],
+      "openingHours": [
+        "10h00–16h00"
+      ],
+      "pastEditions": [
+        "Dimanche 3 Mai 2026 de 10h00 à 16h00"
+      ],
+      "exhibitors": "Inscription Seul, l'organisateur expose",
+      "updatedAt": "31/03/2026",
+      "createdAt": "31/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-02",
+          "label": "Caudry",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/coulogne/01-Festicoulogne-05-Mai-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62137",
+      "city": "Coulogne",
+      "cityUrl": "https://www.ville-coulogne.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62137 Coulogne Agenda",
+      "scheduledDates": [
+        "dimanche 3 mai",
+        "dimanche 24 mai"
+      ],
+      "openingHours": [
+        "7h30–18h00",
+        "18h00–19h30"
+      ],
+      "pastEditions": [
+        "Dimanche 3 Mai 2026 de 7h30 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/FestiCoulogne",
+      "updatedAt": "09/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-02",
+          "label": "Coulogne",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/campigneulles-les-petites/01-Fetes-et-Loisirs-04-Avril-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62170",
+      "city": "Campigneulles les Petites",
+      "cityUrl": "http://fr.wikipedia.org/wiki/Campigneulles-les-Petites",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62170 Campigneulles les Petites Agenda",
+      "scheduledDates": [
+        "dimanche 3 mai"
+      ],
+      "openingHours": [
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 3 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "06/02/2026",
+      "createdAt": "06/02/2026",
+      "appearances": [
+        {
+          "date": "2026-05-02",
+          "label": "Campigneulles les Petites",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/camphin-en-carembault/01-APE-05-Mai-braderie-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59133",
+      "city": "Camphin en Carembault",
+      "cityUrl": "https://camphincarembault.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "59133 Camphin en Carembault l",
+      "scheduledDates": [
+        "vendredi 8 mai"
+      ],
+      "openingHours": [
+        "7h00–13h00"
+      ],
+      "pastEditions": [
+        "Vendredi 8 Mai 2026 de 7h00 à 13h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/camphincarembault/?locale=fr_FR",
+      "createdAt": "16/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-07",
+          "label": "Camphin en Carembault",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/cambrin/01-APE-05-Mai-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62149",
+      "city": "Cambrin",
+      "cityUrl": "http://www.cambrin.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue de Marais editée le 08/04/2026mise à jour le 08/04/2026 Exposant Marché aux puces Installation Vendredi 8 Mai 2026 à partir de 7h00 Inscription ouvert à tous Prix emplacement5,00  les 5 m AVEC ré",
+      "scheduledDates": [
+        "vendredi 8 mai"
+      ],
+      "openingHours": [
+        "8h00–17h00",
+        "16h30–18h00",
+        "10h00–12h00"
+      ],
+      "pastEditions": [
+        "Vendredi 8 Mai 2026 de 8h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100013532989467",
+      "updatedAt": "08/04/2026",
+      "createdAt": "08/04/2026",
+      "appearances": [
+        {
+          "date": "2026-05-07",
+          "label": "Cambrin",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/condette/01-CAC-05-Mai-foire-feraille.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62360",
+      "city": "Condette",
+      "cityUrl": "https://condette.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue de la Paix editée le 10/04/2026mise à jour le 10/04/2026 Exposant Foire à la Férraille Installation Vendredi 8 Mai 2026 à partir de 6h00 Inscription réservée aux particuliers Prix emplacement8,00 ",
+      "scheduledDates": [
+        "vendredi 8 mai"
+      ],
+      "openingHours": [
+        "8h00–20h00"
+      ],
+      "pastEditions": [
+        "Vendredi 8 Mai 2026 de 8h00 à 20h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/CACcommercantsartisanscondette",
+      "updatedAt": "10/04/2026",
+      "createdAt": "10/04/2026",
+      "appearances": [
+        {
+          "date": "2026-05-07",
+          "label": "Condette",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courcelles-les-lens/01-Amicale-des-Chasseurs-05-Mai-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62970",
+      "city": "Courcelles les Lens",
+      "cityUrl": "https://www.courcelles-les-lens.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62970 Courcelles les Lens Agenda",
+      "scheduledDates": [
+        "samedi 11 avril",
+        "samedi 9 mai",
+        "samedi 6 juin"
+      ],
+      "openingHours": [
+        "7h00–17h00",
+        "14h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 9 Mai 2026 de 7h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "23/02/2026",
+      "createdAt": "23/02/2026",
+      "appearances": [
+        {
+          "date": "2026-05-08",
+          "label": "Courcelles les Lens",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cambrai/01-VBCC-05-Mai-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59400",
+      "city": "Cambrai",
+      "cityUrl": "https://www.villedecambrai.com/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyles",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "59400 Cambrai Agenda",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "dimanche 7 juin"
+      ],
+      "openingHours": [
+        "7h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 10 Mai 2026 de 7h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "17/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-09",
+          "label": "Cambrai",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calais/01-Twirling-Club-des-fees-05-Mai-vide-greniers.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62100",
+      "city": "Calais",
+      "cityUrl": "https://www.calais.fr/fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue Pueblarue Montréalrue Panamarue Argentine 500 exposants editée le 25/02/2026mise à jour le 17/03/2026 Exposant Brocante Installation Dimanche 10 Mai 2026 à partir de 6h00 Inscription réservée aux ",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 19 avril",
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "samedi 4 juillet",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "8h00–19h00",
+        "14h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 10 Mai 2026 de 8h00 à 19h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "17/03/2026",
+      "createdAt": "25/02/2026",
+      "appearances": [
+        {
+          "date": "2026-05-09",
+          "label": "Calais",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/carvin/01-ANIM-EPINOY-05-Mai-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62220",
+      "city": "Carvin",
+      "cityUrl": "https://www.carvin.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue Florent Evrard place Gambettarue Simondomaine des 3 hetresrue Saint Druon - 300 exposants toilettes publiques créé le 14/01/2026mise à jour le 14/01/2026 Exposant Brocante Installation Dimanche 10",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 10 mai",
+        "jeudi 14 mai"
+      ],
+      "openingHours": [
+        "8h00–15h00"
+      ],
+      "pastEditions": [
+        "Dimanche 10 Mai 2026 de 8h00 à 15h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "14/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-09",
+          "label": "Carvin",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courrieres/01-Le-Lievre-Agile-05-Mai-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62710",
+      "city": "Courrieres",
+      "cityUrl": "https://fr.wikipedia.org/wiki/Courri%C3%A8res",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62710 Courrieres Agenda",
+      "scheduledDates": [
+        "samedi 18 avril",
+        "dimanche 10 mai",
+        "samedi 30 mai",
+        "dimanche 7 juin",
+        "samedi 5 septembre"
+      ],
+      "openingHours": [
+        "8h00–16h00",
+        "17h00–19h00"
+      ],
+      "pastEditions": [
+        "Dimanche 10 Mai 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "23/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-09",
+          "label": "Courrieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/conchil-le-temple/01-ASCOTE-05-Mai-Bourse.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62180",
+      "city": "Conchil le Temple",
+      "cityUrl": "http://conchil-le-temple.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vêtements",
+        "sports",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "salle des sportssalle des fêtesrue de la mairie62180 Conchil le Temple 60 exposants toilettes",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 6 septembre",
+        "samedi 7 novembre",
+        "dimanche 8 novembre"
+      ],
+      "openingHours": [
+        "10h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 10 Mai 2026 de 10h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "06/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-09",
+          "label": "Conchil le Temple",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/carvin/01-CF-Gare-99-Ascension-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62220",
+      "city": "Carvin",
+      "cityUrl": "https://www.carvin.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62220 Carvin Agenda",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 10 mai",
+        "jeudi 14 mai"
+      ],
+      "openingHours": [
+        "6h00–14h00"
+      ],
+      "pastEditions": [
+        "Jeudi 14 Mai 2026 de 6h00 à 14h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "27/03/2026",
+      "createdAt": "27/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-13",
+          "label": "Carvin",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-branche/01-les-enfants-de-la-peule-05-Mai-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59210",
+      "city": "Coudekerque Branche",
+      "cityUrl": "https://www.ville-coudekerque-branche.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue Cezanne59210 Coudekerque Branche Organisateur associat",
+      "scheduledDates": [
+        "dimanche 29 mars",
+        "dimanche 17 mai",
+        "dimanche 7 juin",
+        "dimanche 21 juin",
+        "dimanche 12 juillet",
+        "dimanche 2 aout",
+        "dimanche 16 aout"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–12h00",
+        "14h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 17 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/lapeulecb/",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-16",
+          "label": "Coudekerque Branche",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/croix/01-Allumette-la-Mackellerie-05-Mai-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59170",
+      "city": "Croix",
+      "cityUrl": "https://www.ville-croix.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue de Valmy59170 Croix Organisateur Comit",
+      "scheduledDates": [
+        "dimanche 17 mai",
+        "samedi 6 juin",
+        "dimanche 6 septembre"
+      ],
+      "openingHours": [
+        "8h00–16h00",
+        "17h00–19h30"
+      ],
+      "pastEditions": [
+        "Dimanche 17 Mai 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100089461446207",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-16",
+          "label": "Croix",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cambrai/01-Comite-Saint-Roch-05-Mai-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59400",
+      "city": "Cambrai",
+      "cityUrl": "https://www.villedecambrai.com/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyles",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "59400 Cambrai Agenda",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "dimanche 7 juin"
+      ],
+      "openingHours": [
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 17 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "02/04/2026",
+      "createdAt": "02/04/2026",
+      "appearances": [
+        {
+          "date": "2026-05-16",
+          "label": "Cambrai",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/catillon-sur-sambre/00-Mairie-05-Mai-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59360",
+      "city": "Catillon sur Sambre",
+      "cityUrl": "http://www.catillonsursambre.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59360 Catillon sur Sambre Agenda",
+      "scheduledDates": [
+        "dimanche 17 mai"
+      ],
+      "openingHours": [
+        "8h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 17 Mai 2026 de 8h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "11/04/2026",
+      "createdAt": "10/04/2026",
+      "appearances": [
+        {
+          "date": "2026-05-16",
+          "label": "Catillon sur Sambre",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calais/01-APE-Washington-05-Mai-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62100",
+      "city": "Calais",
+      "cityUrl": "https://www.calais.fr/fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue des Fleursrue Leavers 150 exposants editée le 14/02/2026mise à jour le 15/02/2026 Exposant Brocante Installation Dimanche 17 Mai 2026 à partir de 7h00 Inscription réservée aux particuliers & profe",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 19 avril",
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "samedi 4 juillet",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–11h30",
+        "17h00–18h30"
+      ],
+      "pastEditions": [
+        "Dimanche 17 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "15/02/2026",
+      "createdAt": "14/02/2026",
+      "appearances": [
+        {
+          "date": "2026-05-16",
+          "label": "Calais",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cuincy/01-CLAC-05-Mai-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59553",
+      "city": "Cuincy",
+      "cityUrl": "https://www.ville-cuincy.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue Pasteur )59553 Cuincy Organisateur CLACCuincy LoisirsAni",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "samedi 23 mai",
+        "dimanche 27 septembre"
+      ],
+      "openingHours": [
+        "9h00–16h00",
+        "14h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 23 Mai 2026 de 9h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "26/11/2025",
+      "appearances": [
+        {
+          "date": "2026-05-22",
+          "label": "Cuincy",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/caudry/01-CS-Marliot-Maupassant-04-plante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59540",
+      "city": "Caudry",
+      "cityUrl": "https://www.caudry.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue Auguste Marliotaccès par terrain de pétanquerue Jacquard59540 Caudry edit",
+      "scheduledDates": [
+        "samedi 4 avril",
+        "samedi 11 avril",
+        "dimanche 3 mai",
+        "samedi 23 mai"
+      ],
+      "openingHours": [
+        "9h00–18h00"
+      ],
+      "pastEditions": [
+        "Samedi 23 Mai 2026 de 9h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/centresocialmarliotmaupa",
+      "updatedAt": "10/03/2026",
+      "createdAt": "10/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-22",
+          "label": "Caudry",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cambrai/01-CF-Victor-Hugo-05-Mai-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59400",
+      "city": "Cambrai",
+      "cityUrl": "https://www.villedecambrai.com/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyles",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59400 Cambrai Agenda",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "dimanche 7 juin"
+      ],
+      "openingHours": [
+        "7h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 24 Mai 2026 de 7h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/photo/?fbid=122121224679001798&set=a.122102169699001798",
+      "updatedAt": "25/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-23",
+          "label": "Cambrai",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calais/00-Secours-Populaire-Francais-05-Mai-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62100",
+      "city": "Calais",
+      "cityUrl": "https://www.calais.fr/fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "Avenue Louis Bleriot editée le 04/03/2026mise à jour le 04/03/2026 Exposant Braderie Brocante Installation Dimanche 24 Mai 2026 à partir de 7h00 Inscription ouverte à tous AVEC réservation Riverainsdu",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 19 avril",
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "samedi 4 juillet",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "7h00–18h00",
+        "14h00–16h30"
+      ],
+      "pastEditions": [
+        "Dimanche 24 Mai 2026 de 7h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/secourspop62?rdid=rfnEzelzQIwqzWKa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15cftgBuyP%2F",
+      "updatedAt": "04/03/2026",
+      "createdAt": "04/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-23",
+          "label": "Calais",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/coulogne/00-CCAS-06-Juin-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62137",
+      "city": "Coulogne",
+      "cityUrl": "https://www.ville-coulogne.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue du Virval 100-150 exposants editée le 25/03/2026mise à jour le 25/03/2026 Exposant Brocante Installation Dimanche 24 Mai 2026 à partir de 6h00 Inscription réservée aux particuliers Prix emplacemen",
+      "scheduledDates": [
+        "dimanche 3 mai",
+        "dimanche 24 mai"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "17h30–19h00"
+      ],
+      "pastEditions": [
+        "Dimanche 24 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/p/CCAS-Ville-de-Coulogne-61554917657969/",
+      "updatedAt": "25/03/2026",
+      "createdAt": "25/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-23",
+          "label": "Coulogne",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/conteville-les-boulogne/01-CAC-05-Mai-braderie-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62126",
+      "city": "Conteville les Boulogne",
+      "cityUrl": "http://conteville-lez-boulogne.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62126 Conteville les Boulogne Agenda",
+      "scheduledDates": [
+        "dimanche 24 mai"
+      ],
+      "openingHours": [
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 24 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "19/02/2026",
+      "createdAt": "19/02/2026",
+      "appearances": [
+        {
+          "date": "2026-05-23",
+          "label": "Conteville les Boulogne",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/60-oise/c/chambly/01-RC-Thelle-et-Sablons-05-Mai-brocante.php",
+      "departmentCode": "60",
+      "departmentSlug": "oise",
+      "departmentLabel": "60 Oise",
+      "postalCode": "60230",
+      "city": "Chambly",
+      "cityUrl": "https://www.ville-chambly.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "60230 Chambly Agenda",
+      "scheduledDates": [
+        "dimanche 24 mai"
+      ],
+      "openingHours": [
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 24 Mai 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/rotarymeruchambly/?locale=fr_FR",
+      "updatedAt": "11/03/2026",
+      "createdAt": "11/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-23",
+          "label": "60 Chambly",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/clairmarais/01-Detente-Amities-99-Pentecote-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62500",
+      "city": "Clairmarais",
+      "cityUrl": "http://fr.wikipedia.org/wiki/Clairmarais",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62500 Clairmarais Agenda",
+      "scheduledDates": [
+        "lundi 25 mai"
+      ],
+      "openingHours": [
+        "7h30–17h00",
+        "10H00–12H00",
+        "16H00–18H00"
+      ],
+      "pastEditions": [
+        "Lundi 25 Mai 2026 de 7h30 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "14/01/2026",
+      "appearances": [
+        {
+          "date": "2026-05-24",
+          "label": "Clairmarais",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/chocques/01-club-ados-05-Mai-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62920",
+      "city": "Chocques",
+      "cityUrl": "http://chocques.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue de Lapugnoyrue Melchior 300 exposants editée le 1/04/2026mise à jour le 1/04/2026 Exposant Marché aux puces Installation Samedi 30 Mai 2026 à partir de 6h00 Inscription réservé aux particuliers Pr",
+      "scheduledDates": [
+        "samedi 30 mai"
+      ],
+      "openingHours": [
+        "9h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 30 Mai 2026 de 9h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/chocquesjeunesse/",
+      "appearances": [
+        {
+          "date": "2026-05-29",
+          "label": "Chocques",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courrieres/01-CF-de-la-Louisiane-06-Juin-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62710",
+      "city": "Courrieres",
+      "cityUrl": "https://fr.wikipedia.org/wiki/Courri%C3%A8res",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue des colombes10,00  les 5 m AVEC réservation Date Horaire18, 19, 21, 22 et 26 Maide 14h00 à 17h0020 et 27 Maide 9h30 à 11h30 AdresseMaison des Services Publics -5 rue des Acacias62710 Courrieres P",
+      "scheduledDates": [
+        "samedi 18 avril",
+        "dimanche 10 mai",
+        "samedi 30 mai",
+        "dimanche 7 juin",
+        "samedi 5 septembre"
+      ],
+      "openingHours": [
+        "7h00–16h00",
+        "14h00–17h0020",
+        "9h30–11h30"
+      ],
+      "pastEditions": [
+        "Samedi 30 Mai 2026 de 7h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "09/04/2026",
+      "createdAt": "19/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-29",
+          "label": "Courrieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/corbehem/00-Mairie-05-Mai-braderie.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62112",
+      "city": "Corbehem",
+      "cityUrl": "https://www.corbehem.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62112 Corbehem Agenda",
+      "scheduledDates": [
+        "mardi 14 avril",
+        "mercredi 15 avril",
+        "samedi 30 mai"
+      ],
+      "openingHours": [
+        "16h00–21h00"
+      ],
+      "pastEditions": [
+        "Samedi 30 Mai 2026 de 16h00 à 21h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "13/04/2026",
+      "createdAt": "26/03/2026",
+      "appearances": [
+        {
+          "date": "2026-05-29",
+          "label": "Corbehem",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/77-seine-et-marne/c/champeaux/01-Champeaux-Animations-Loisirs-05-Mai-vide-greniers.php",
+      "departmentCode": "77",
+      "departmentSlug": "seine-et-marne",
+      "departmentLabel": "77 Seine et Marne",
+      "postalCode": "77720",
+      "city": "Champeaux",
+      "cityUrl": "https://champeaux77.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "77720 Champeaux Agenda",
+      "scheduledDates": [
+        "samedi 30 mai"
+      ],
+      "openingHours": [
+        "7h30–18h00"
+      ],
+      "pastEditions": [
+        "Samedi 30 Mai 2026 de 7h30 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/CAL.77720",
+      "updatedAt": "07/02/2026",
+      "createdAt": "07/02/2026",
+      "appearances": [
+        {
+          "date": "2026-05-29",
+          "label": "77 Champeaux",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/38-isere/c/Chasse-sur-Rhone/01-Chasse-Fight-Club-05-Mai-vide-greniers.php",
+      "departmentCode": "38",
+      "departmentSlug": "isere",
+      "departmentLabel": "38 Isère",
+      "postalCode": "38670",
+      "city": "Chasse sur Rhône",
+      "cityUrl": "https://www.chasse-sur-rhone.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "38670 Chasse sur Rhône Agenda",
+      "scheduledDates": [
+        "dimanche 31 mai"
+      ],
+      "openingHours": [
+        "8h00–16h00"
+      ],
+      "pastEditions": [
+        "Dimanche 31 Mai 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/ChasseFightClub/",
+      "updatedAt": "06/04/2026",
+      "createdAt": "06/04/2026",
+      "appearances": [
+        {
+          "date": "2026-05-30",
+          "label": "38 Chasse sur Rhône",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/croix/01-CQ-Croix-Saint-Pierre-06-Juin-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59170",
+      "city": "Croix",
+      "cityUrl": "https://www.ville-croix.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue de Valmy59170 Croix Organisateur Comit",
+      "scheduledDates": [
+        "dimanche 17 mai",
+        "samedi 6 juin",
+        "dimanche 6 septembre"
+      ],
+      "openingHours": [
+        "8h00–16h00",
+        "16h30–19h30"
+      ],
+      "pastEditions": [
+        "Samedi 6 Juin 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/comitedequartier.croixsaintpierre/",
+      "updatedAt": "26/03/2026",
+      "createdAt": "05/03/2026",
+      "appearances": [
+        {
+          "date": "2026-06-05",
+          "label": "Croix",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courcelles-les-lens/01-Amicale-des-Chasseurs-06-Juin-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62970",
+      "city": "Courcelles les Lens",
+      "cityUrl": "https://www.courcelles-les-lens.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62970 Courcelles les Lens Agenda",
+      "scheduledDates": [
+        "samedi 11 avril",
+        "samedi 9 mai",
+        "samedi 6 juin"
+      ],
+      "openingHours": [
+        "8h00–17h00",
+        "14h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 6 Juin 2026 de 8h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "23/02/2026",
+      "createdAt": "23/02/2026",
+      "appearances": [
+        {
+          "date": "2026-06-05",
+          "label": "Courcelles les Lens",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-branche/01-les-enfants-de-la-peule-06-Juin-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59210",
+      "city": "Coudekerque Branche",
+      "cityUrl": "https://www.ville-coudekerque-branche.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "Espace Vanuxemrue Ghoche59210 Coudekerque Branche Organisateur associat",
+      "scheduledDates": [
+        "dimanche 29 mars",
+        "dimanche 17 mai",
+        "dimanche 7 juin",
+        "dimanche 21 juin",
+        "dimanche 12 juillet",
+        "dimanche 2 aout",
+        "dimanche 16 aout"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–12h00",
+        "14h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 7 Juin 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/lapeulecb/",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-06-06",
+          "label": "Coudekerque Branche",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cambrai/01-Comite-des-Fetes-Amerique-et-proma-06-Juin-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59400",
+      "city": "Cambrai",
+      "cityUrl": "https://www.villedecambrai.com/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyles",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59400 Cambrai Agenda",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "dimanche 7 juin"
+      ],
+      "openingHours": [
+        "7h00–18h00",
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 7 juin 2026 de 7h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/pages/category/Nonprofit-Organization/Comit%C3%A9-des-f%C3%AAtes-du-quartier-Amerique-et-du-quartier-Proma-322749541421541/",
+      "updatedAt": "22/01/2026",
+      "appearances": [
+        {
+          "date": "2026-06-06",
+          "label": "Cambrai",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cambrai/01-Graines-de-metal-06-Juin-vinyles.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59400",
+      "city": "Cambrai",
+      "cityUrl": "https://www.villedecambrai.com/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyles",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": false,
+      "accessiblePMR": true,
+      "address": "salle des céremonies2 rue de Nice59400 Cambrai Toilettes Publiquesaccessibles au",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "dimanche 7 juin"
+      ],
+      "openingHours": [
+        "9h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 7 juin 2026 de 9h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/p/Graines-de-metal-61583208201558/",
+      "updatedAt": "08/04/2026",
+      "createdAt": "08/04/2026",
+      "appearances": [
+        {
+          "date": "2026-06-06",
+          "label": "Cambrai",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calonne-ricouart/01-Z-EVENTS-06-braderie.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62470",
+      "city": "Calonne Ricouart",
+      "cityUrl": "https://www.calonne-ricouart.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue de Champagnerue de la Meuserue Alsace Lorrainerue des Flandres 400 exposants Toilettes Publiques créé le 26/01/2026mise à jour le 26/01/2026 Exposant Braderie Installation Dimanche 7 Juin 2026 à p",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "dimanche 7 juin",
+        "dimanche 14 juin",
+        "dimanche 25 octobre"
+      ],
+      "openingHours": [
+        "9h00–18h00",
+        "17h30–20h00"
+      ],
+      "pastEditions": [
+        "Dimanche 7 Juin 2026 de 9h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/VilleCalonneRicouartOfficiel/?locale=fr_FR",
+      "updatedAt": "26/01/2026",
+      "appearances": [
+        {
+          "date": "2026-06-06",
+          "label": "Calonne Ricouart",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courrieres/01-AICM-06-Juin-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62710",
+      "city": "Courrieres",
+      "cityUrl": "https://fr.wikipedia.org/wiki/Courri%C3%A8res",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62710 Courrieres Agenda",
+      "scheduledDates": [
+        "samedi 18 avril",
+        "dimanche 10 mai",
+        "samedi 30 mai",
+        "dimanche 7 juin",
+        "samedi 5 septembre"
+      ],
+      "openingHours": [
+        "7h00–16h00"
+      ],
+      "pastEditions": [
+        "Dimanche 7 Juin 2026 de 7h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/association.AICM.muco/",
+      "updatedAt": "15/01/2026",
+      "appearances": [
+        {
+          "date": "2026-06-06",
+          "label": "Courrieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/camiers/01-Camiers-Evasion-Loisirs-06-Juin-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62176",
+      "city": "Camiers",
+      "cityUrl": "http://www.camiers.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62176 Camiers Agenda",
+      "scheduledDates": [
+        "dimanche 7 juin"
+      ],
+      "openingHours": [
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 7 Juin 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Brocante Inscription réservée aux particuliers Prix emplacement3,00  le m AVEC réservation",
+      "updatedAt": "07/04/2026",
+      "createdAt": "07/04/2026",
+      "appearances": [
+        {
+          "date": "2026-06-06",
+          "label": "Camiers",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cappelle-sur-ecaillon/01-Capelle-Sur-Ecaillon-en-Fete-06-Juin-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59213",
+      "city": "Cappelle (sur Ecaillon)",
+      "cityUrl": "https://www.capelle-sur-ecaillon.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59213 Cappelle",
+      "scheduledDates": [
+        "samedi 13 juin"
+      ],
+      "openingHours": [
+        "14h00–21h00"
+      ],
+      "pastEditions": [
+        "Samedi 13 Juin 2026 de 14h00 à 21h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/p/Commune-de-Capelle-sur-%C3%89caillon-100064847105959/",
+      "updatedAt": "27/02/2026",
+      "createdAt": "27/02/2026",
+      "appearances": [
+        {
+          "date": "2026-06-12",
+          "label": "Cappelle (sur Ecaillon)",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coutiches/01-La-Pass-Tour-l-06-Juin-braderie.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59310",
+      "city": "Coutiches",
+      "cityUrl": "http://www.mairie-coutiches.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "59310 Coutiches Agenda",
+      "scheduledDates": [
+        "dimanche 14 juin"
+      ],
+      "openingHours": [
+        "7h00–13h00"
+      ],
+      "pastEditions": [
+        "Dimanche 14 Juin 2026 de 7h00 à 13h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/LaPassTourLCoutiches/",
+      "updatedAt": "14/12/2025",
+      "appearances": [
+        {
+          "date": "2026-06-13",
+          "label": "Coutiches",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/conde-sur-escaut/00-CS-Conde-05-Mai-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59163",
+      "city": "Conde sur l'Escaut",
+      "cityUrl": "https://www.condesurlescaut.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue Alphonse Delbauve editée le 27/02/2026mise à jour le 27/02/2026 Exposant Brocante Installation Dimanche 14 Juin 2026 à partir de 7h00 Inscription réservée aux particuliers Prix emplacement2,00  l",
+      "scheduledDates": [
+        "dimanche 14 juin"
+      ],
+      "openingHours": [
+        "8h00–16h00",
+        "9h00–17h00",
+        "9h00–12h00",
+        "13h30–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 14 Juin 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/centresocial.condesurlescaut",
+      "updatedAt": "27/02/2026",
+      "createdAt": "27/02/2026",
+      "appearances": [
+        {
+          "date": "2026-06-13",
+          "label": "Conde sur l'Escaut",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calonne-ricouart/01-La-Calonnoise-06-Juin-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62470",
+      "city": "Calonne Ricouart",
+      "cityUrl": "https://www.calonne-ricouart.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62470 Calonne Ricouart sa page FaceBook Agenda",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "dimanche 7 juin",
+        "dimanche 14 juin",
+        "dimanche 25 octobre"
+      ],
+      "openingHours": [
+        "8h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 14 Juin 2026 de 8h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/VilleCalonneRicouartOfficiel/?locale=fr_FR",
+      "updatedAt": "04/01/2026",
+      "appearances": [
+        {
+          "date": "2026-06-13",
+          "label": "Calonne Ricouart",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/carency/01-Les-Vieilles-Soupapes-Artois-06-Juin-auto.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62144",
+      "city": "Carency",
+      "cityUrl": "https://www.carency.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62144 Carency Agenda",
+      "scheduledDates": [
+        "dimanche 14 juin"
+      ],
+      "openingHours": [
+        "9h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 14 Juin 2026 de 9h00 à 18h00"
+      ],
+      "exhibitors": "Exposition Boursevehicules ancien",
+      "updatedAt": "05/02/2026",
+      "createdAt": "05/02/2026",
+      "appearances": [
+        {
+          "date": "2026-06-13",
+          "label": "Carency",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/36-indre/c/Chateauroux/01-RADIO-PACA-FM-36-06-Juin-brocante.php",
+      "departmentCode": "36",
+      "departmentSlug": "indre",
+      "departmentLabel": "36 Indre",
+      "postalCode": "36000",
+      "city": "Châteauroux",
+      "cityUrl": "https://www.chateauroux-metropole.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "36000 Châteauroux Agenda",
+      "scheduledDates": [
+        "dimanche 14 juin"
+      ],
+      "openingHours": [
+        "7h00–19h30"
+      ],
+      "pastEditions": [
+        "Dimanche 14 Juin 2026 de 7h00 à 19h30"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "19/03/2026",
+      "createdAt": "19/03/2026",
+      "appearances": [
+        {
+          "date": "2026-06-13",
+          "label": "36 Châteauroux",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-branche/01-les-enfants-de-la-peule-06-Juin-Saint-Pierre.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59210",
+      "city": "Coudekerque Branche",
+      "cityUrl": "https://www.ville-coudekerque-branche.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue de l ancienne mairie59210 Coudekerque Branche Organisateur associat",
+      "scheduledDates": [
+        "dimanche 29 mars",
+        "dimanche 17 mai",
+        "dimanche 7 juin",
+        "dimanche 21 juin",
+        "dimanche 12 juillet",
+        "dimanche 2 aout",
+        "dimanche 16 aout"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–12h00",
+        "14h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 21 Juin 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/lapeulecb/",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-06-20",
+          "label": "Coudekerque Branche",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/campigneulles-les-grandes/01-ADSL-06-Juin-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "scheduledDates": [
+        "dimanche 21 juin"
+      ],
+      "openingHours": [
+        "7h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 21 Juin 2026 de 7h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/adslcampigneulleslesgrandes/",
+      "updatedAt": "09/04/2026",
+      "appearances": [
+        {
+          "date": "2026-06-20",
+          "label": "Campigneulles les Grandes",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calais/01-CF-du-petit-Courgain-07-Juillet-braderie-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62100",
+      "city": "Calais",
+      "cityUrl": "https://www.calais.fr/fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "rue Mollien 600 exposants editée le 20/03/2026mise à jour le 20/03/2026 Exposant Braderie Brocante Installation Samedi 4 Juillet 2026 à partir de 12h00 Dimanche 5 Juillet 2026 à partir de 7h00 Inscrip",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "dimanche 19 avril",
+        "dimanche 10 mai",
+        "dimanche 17 mai",
+        "dimanche 24 mai",
+        "samedi 4 juillet",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "13h00–20h00",
+        "8h00–19h00",
+        "10h00–12h00"
+      ],
+      "pastEditions": [
+        "Samedi 4 Juillet 2026 de 13h00 à 20h00",
+        "Dimanche 5 Juillet 2026 de 8h00 à 19h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "20/03/2026",
+      "createdAt": "20/03/2026",
+      "appearances": [
+        {
+          "date": "2026-07-03",
+          "label": "Calais",
+          "context": ""
+        },
+        {
+          "date": "2026-07-04",
+          "label": "Calais",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-village/01-les-semelles-du-polder-07-Juillet-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59380",
+      "city": "Coudekerque Village",
+      "cityUrl": "http://www.ville-tcv.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59380 Coudekerque Village Agenda",
+      "scheduledDates": [
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "7h00–17h00",
+        "15h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 5 Juillet 2026 de 7h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/LessemellesduPolder/",
+      "updatedAt": "07/01/2026",
+      "appearances": [
+        {
+          "date": "2026-07-04",
+          "label": "Coudekerque Village",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/cauchy-a-la-tour/01-Conseil-Citoyen-07-Juillet-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62260",
+      "city": "Cauchy A la Tour",
+      "cityUrl": "http://fr.wikipedia.org/wiki/Cauchy_A_La_Tour",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62260 Cauchy A la Tour l",
+      "scheduledDates": [
+        "samedi 25 avril",
+        "dimanche 5 juillet"
+      ],
+      "openingHours": [
+        "6h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 5 Juillet 2026 de 6h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/villedecauchyalatour/",
+      "updatedAt": "24/03/2026",
+      "createdAt": "24/03/2026",
+      "appearances": [
+        {
+          "date": "2026-07-04",
+          "label": "Cauchy A la Tour",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/croisilles/00-Comite-des-Fetes-07-Juillet-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62128",
+      "city": "Croisilles",
+      "cityUrl": "https://www.mairie-croisilles.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62128 Croisilles Agenda",
+      "scheduledDates": [
+        "samedi 11 juillet"
+      ],
+      "openingHours": [
+        "8h00–16h00"
+      ],
+      "pastEditions": [
+        "Samedi 11 Juillet 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "23/01/2026",
+      "appearances": [
+        {
+          "date": "2026-07-10",
+          "label": "Croisilles",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-branche/01-les-enfants-de-la-peule-07-Juillet-Tennis.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59210",
+      "city": "Coudekerque Branche",
+      "cityUrl": "https://www.ville-coudekerque-branche.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle de raquetterue Jean Monnet 59210 Coudekerque Branche Organisateur associat",
+      "scheduledDates": [
+        "dimanche 29 mars",
+        "dimanche 17 mai",
+        "dimanche 7 juin",
+        "dimanche 21 juin",
+        "dimanche 12 juillet",
+        "dimanche 2 aout",
+        "dimanche 16 aout"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–12h00",
+        "14h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 12 Juillet 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/lapeulecb/",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-07-11",
+          "label": "Coudekerque Branche",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/coulomby/01-Les-Trois-Colombes-07-Juillet-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62380",
+      "city": "Coulomby",
+      "cityUrl": "http://communedecoulomby.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62380 Coulomby Agenda",
+      "scheduledDates": [
+        "dimanche 12 juillet"
+      ],
+      "openingHours": [
+        "8h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 12 Juillet 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://m.facebook.com/profile.php?id=100054214539388&_rdr",
+      "updatedAt": "23/02/2026",
+      "createdAt": "23/02/2026",
+      "appearances": [
+        {
+          "date": "2026-07-11",
+          "label": "Coulomby",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/27-eure/c/cierrey/00-Comite-des-Fetes-07-Juillet-foire-a-tout.php",
+      "departmentCode": "27",
+      "departmentSlug": "eure",
+      "departmentLabel": "27 Eure",
+      "postalCode": "27930",
+      "city": "Cierrey",
+      "cityUrl": "http://www.cierrey.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "livres",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue de la mare aux chênes27930 Cierrey 200 exposants Toilettes Publiques",
+      "scheduledDates": [
+        "dimanche 8 mars",
+        "samedi 18 juillet",
+        "dimanche 19 juillet",
+        "dimanche 4 octobre"
+      ],
+      "openingHours": [
+        "6h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 18 Juillet 2026 de 6h00 à 17h00",
+        "Dimanche 19 Juillet 2026 de 6h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "19/12/2025",
+      "appearances": [
+        {
+          "date": "2026-07-17",
+          "label": "27 Cierrey",
+          "context": ""
+        },
+        {
+          "date": "2026-07-18",
+          "label": "27 Cierrey",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/27-eure/c/cierrey/00-Comite-des-Fetes-07-Juillet-livre.php",
+      "departmentCode": "27",
+      "departmentSlug": "eure",
+      "departmentLabel": "27 Eure",
+      "postalCode": "27930",
+      "city": "Cierrey",
+      "cityUrl": "http://www.cierrey.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "livres",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle du préau rue René Lefebvre27930 Cierrey Toilettes Publiquesaccessibles au",
+      "scheduledDates": [
+        "dimanche 8 mars",
+        "samedi 18 juillet",
+        "dimanche 19 juillet",
+        "dimanche 4 octobre"
+      ],
+      "openingHours": [
+        "6h00–17h00",
+        "16h30–18h30",
+        "18h00–19h00"
+      ],
+      "pastEditions": [
+        "Samedi 18 Juillet 2026 de 6h00 à 17h00",
+        "Dimanche 19 Juillet 2026 de 6h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "19/12/2025",
+      "appearances": [
+        {
+          "date": "2026-07-17",
+          "label": "27 Cierrey",
+          "context": ""
+        },
+        {
+          "date": "2026-07-18",
+          "label": "27 Cierrey",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-branche/01-les-enfants-de-la-peule-07-Juillet-Provinces.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59210",
+      "city": "Coudekerque Branche",
+      "cityUrl": "https://www.ville-coudekerque-branche.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue du Franklin59210 Coudekerque Branche Organisateur associat",
+      "scheduledDates": [
+        "dimanche 29 mars",
+        "dimanche 17 mai",
+        "dimanche 7 juin",
+        "dimanche 21 juin",
+        "dimanche 12 juillet",
+        "dimanche 2 aout",
+        "dimanche 16 aout"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–12h00",
+        "14h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 2 Aout 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/lapeulecb/",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-08-01",
+          "label": "Coudekerque Branche",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/campagne-les-wardrecques/01-GYM-Volontaire-08-Aout-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62120",
+      "city": "Campagne les Wardrecques",
+      "cityUrl": "http://www.campagne-lez-wardrecques.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62120 Campagne les Wardrecques Agenda",
+      "scheduledDates": [
+        "samedi 15 aout"
+      ],
+      "openingHours": [
+        "7h00–18h00",
+        "8h30–12h00"
+      ],
+      "pastEditions": [
+        "Samedi 15 Aout 2026 de 7h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "12/03/2026",
+      "createdAt": "12/03/2026",
+      "appearances": [
+        {
+          "date": "2026-08-14",
+          "label": "Campagne les Wardrecques",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/coudekerque-branche/01-les-enfants-de-la-peule-08-Aout-centre-ville.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59210",
+      "city": "Coudekerque Branche",
+      "cityUrl": "https://www.ville-coudekerque-branche.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue du Franklin59210 Coudekerque Branche Organisateur associat",
+      "scheduledDates": [
+        "dimanche 29 mars",
+        "dimanche 17 mai",
+        "dimanche 7 juin",
+        "dimanche 21 juin",
+        "dimanche 12 juillet",
+        "dimanche 2 aout",
+        "dimanche 16 aout"
+      ],
+      "openingHours": [
+        "8h00–18h00",
+        "9h00–12h00",
+        "14h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 16 Aout 2026 de 8h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/lapeulecb/",
+      "updatedAt": "18/03/2026",
+      "createdAt": "18/03/2026",
+      "appearances": [
+        {
+          "date": "2026-08-15",
+          "label": "Coudekerque Branche",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cassel/01-Comite-du-quartier-Vandamme-08-Aout-vide-greniers.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59670",
+      "city": "Cassel",
+      "cityUrl": "http://www.cassel.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "vide grenier",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "59670 Cassel Agenda",
+      "scheduledDates": [
+        "samedi 17 janvier",
+        "dimanche 19 avril",
+        "dimanche 30 Aout"
+      ],
+      "openingHours": [
+        "6h00–18h00"
+      ],
+      "pastEditions": [
+        "Dimanche 30 Aout 2026 de 6h00 à 18h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "31/10/2025",
+      "appearances": [
+        {
+          "date": "2026-08-29",
+          "label": "Cassel",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/courrieres/01-CFQ-Fleurs-Rotoisre-09-Septembre-puces.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62710",
+      "city": "Courrieres",
+      "cityUrl": "https://fr.wikipedia.org/wiki/Courri%C3%A8res",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché aux puces",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "62710 Courrieres Agenda",
+      "scheduledDates": [
+        "samedi 18 avril",
+        "dimanche 10 mai",
+        "samedi 30 mai",
+        "dimanche 7 juin",
+        "samedi 5 septembre"
+      ],
+      "openingHours": [
+        "7h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 5 Septembre 2026 de 7h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "02/04/2026",
+      "createdAt": "02/04/2026",
+      "appearances": [
+        {
+          "date": "2026-09-04",
+          "label": "Courrieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/conchil-le-temple/01-ASCOTE-09-Septembre-brocante.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62180",
+      "city": "Conchil le Temple",
+      "cityUrl": "http://conchil-le-temple.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62180 Conchil le Temple Agenda",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 6 septembre",
+        "samedi 7 novembre",
+        "dimanche 8 novembre"
+      ],
+      "openingHours": [],
+      "pastEditions": [],
+      "exhibitors": "Brocante Installation Dimanche 6 Septembre 2026 inconnue Inscription réservée aux particuliers AVEC réservation",
+      "updatedAt": "06/01/2026",
+      "appearances": [
+        {
+          "date": "2026-09-05",
+          "label": "Conchil le Temple",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cobrieux/01-les-amis-de-Cobrieux-09-Septembre-collection.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59830",
+      "city": "Cobrieux",
+      "cityUrl": "https://mairiecobrieux.fr/?cn-reloaded=1",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "multi",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle communalepetite rue59830 Cobrieux Toilettes Publiquesaccessibles a",
+      "scheduledDates": [
+        "dimanche 27 septembre"
+      ],
+      "openingHours": [
+        "9h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 27 Septembre 2026 de 9h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://fr-fr.facebook.com/amisdecobrieux/",
+      "updatedAt": "19/02/2026",
+      "createdAt": "07/02/2026",
+      "appearances": [
+        {
+          "date": "2026-09-26",
+          "label": "Cobrieux",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/cuincy/01-CLAC-09-Septembre-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59553",
+      "city": "Cuincy",
+      "cityUrl": "https://www.ville-cuincy.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue Pasteur )59553 Cuincy Organisateur CLACCuincy LoisirsAni",
+      "scheduledDates": [
+        "dimanche 12 avril",
+        "samedi 23 mai",
+        "dimanche 27 septembre"
+      ],
+      "openingHours": [
+        "8h00–14h00",
+        "14h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 27 Septembre 2026 de 8h00 à 14h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "26/11/2025",
+      "appearances": [
+        {
+          "date": "2026-09-26",
+          "label": "Cuincy",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/carnieres/01-CASL-10-Octobre-bourse.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59217",
+      "city": "Carnieres",
+      "cityUrl": "http://fr.wikipedia.org/wiki/Carni%C3%A8res_(Nord)",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyle",
+        "jouets",
+        "livres",
+        "vinyles",
+        "disques",
+        "jouet",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle des fêtesrue de Rieux59217 Carnieres -50 exposants Toilettes Publiqu",
+      "scheduledDates": [
+        "samedi 9 mai",
+        "samedi 3 octobre",
+        "dimanche 4 octobre"
+      ],
+      "openingHours": [
+        "10h00–17h00"
+      ],
+      "pastEditions": [
+        "Samedi 3 Octobre 2026 de 10h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/p/Association-Club-dAnimation-Sociale-et-de-Loisirs-de-Carni%C3%A8res-CASL-100082806597198/",
+      "updatedAt": "08/02/2026",
+      "createdAt": "08/02/2026",
+      "appearances": [
+        {
+          "date": "2026-10-02",
+          "label": "Carnieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/carnieres/01-CASL-10-Octobre-jouet.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59217",
+      "city": "Carnieres",
+      "cityUrl": "http://fr.wikipedia.org/wiki/Carni%C3%A8res_(Nord)",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "vinyle",
+        "jouets",
+        "disques",
+        "jouet",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle des fêtesrue de Rieux59217 Carnieres -50 exposants Toilettes Publiqu",
+      "scheduledDates": [
+        "samedi 9 mai",
+        "samedi 3 octobre",
+        "dimanche 4 octobre"
+      ],
+      "openingHours": [
+        "10h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 4 Octobre 2026 de 10h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/p/Association-Club-dAnimation-Sociale-et-de-Loisirs-de-Carni%C3%A8res-CASL-100082806597198/",
+      "updatedAt": "08/02/2026",
+      "createdAt": "08/02/2026",
+      "appearances": [
+        {
+          "date": "2026-10-03",
+          "label": "Carnieres",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/27-eure/c/cierrey/00-Comite-des-Fetes-10-Octobre-puericulture.php",
+      "departmentCode": "27",
+      "departmentSlug": "eure",
+      "departmentLabel": "27 Eure",
+      "postalCode": "27930",
+      "city": "Cierrey",
+      "cityUrl": "http://www.cierrey.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "livres",
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle de La Pommeraie 1 rue de la mare aux chênes27930 Cierrey 30 exposants Toilettes Publiquesa",
+      "scheduledDates": [
+        "dimanche 8 mars",
+        "samedi 18 juillet",
+        "dimanche 19 juillet",
+        "dimanche 4 octobre"
+      ],
+      "openingHours": [
+        "9h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 4 Octobre 2026 de 9h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "19/12/2025",
+      "appearances": [
+        {
+          "date": "2026-10-03",
+          "label": "27 Cierrey",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/carnin/01-Solidarite-Carninoise-10-Octobre-vetement.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59112",
+      "city": "Carnin",
+      "cityUrl": "https://www.carnin.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "jouet",
+        "vetements",
+        "jouets",
+        "disques",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle Chineur Bourseaux vetements et jouets entrée gratuite Samedi 10 Octobre 2026 de 8h00 à 16h00 salle des fêtes\" Roger Salengro \"grand place59112 Carnin 50 exposants Toilettes Publiquesac",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "samedi 10 octobre",
+        "samedi 8 novembre"
+      ],
+      "openingHours": [
+        "8h00–16h00",
+        "10h00–12h00"
+      ],
+      "pastEditions": [
+        "Samedi 10 Octobre 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "28/01/2026",
+      "createdAt": "28/01/2026",
+      "appearances": [
+        {
+          "date": "2026-10-09",
+          "label": "Carnin",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/calonne-ricouart/01-Club-des-Collectionneurs-Calonnois-10-Octobre-collection.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62470",
+      "city": "Calonne Ricouart",
+      "cityUrl": "https://www.calonne-ricouart.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "disques",
+        "jouet",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "rue du marais62470 Calonne Ricouart",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "dimanche 7 juin",
+        "dimanche 14 juin",
+        "dimanche 25 octobre"
+      ],
+      "openingHours": [
+        "8h00–17h00"
+      ],
+      "pastEditions": [
+        "Dimanche 25 Octobre 2026 de 8h00 à 17h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "facebookUrl": "https://www.facebook.com/VilleCalonneRicouartOfficiel/?locale=fr_FR",
+      "updatedAt": "20/01/2026",
+      "appearances": [
+        {
+          "date": "2026-10-24",
+          "label": "Calonne Ricouart",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/59-nord/c/carnin/01-Solidarite-Carninoise-11-Novembre-brocante.php",
+      "departmentCode": "59",
+      "departmentSlug": "nord",
+      "departmentLabel": "59 Nord",
+      "postalCode": "59112",
+      "city": "Carnin",
+      "cityUrl": "https://www.carnin.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "jouet",
+        "disques",
+        "jouets",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": true,
+      "address": "salle Chineur Brocante en salle entrée gratuite Samedi 7 Novembre 2026 de 8h00 à 16h00 salle des fêtes\" Roger Salengro \"grand place59112 Carnin 50 exposants Toilettes Publiquesac",
+      "scheduledDates": [
+        "vendredi 1 mai",
+        "samedi 10 octobre",
+        "samedi 8 novembre"
+      ],
+      "openingHours": [
+        "8h00–16h00",
+        "10h00–12h00"
+      ],
+      "pastEditions": [
+        "Samedi 7 Novembre 2026 de 8h00 à 16h00"
+      ],
+      "exhibitors": "Chineur Mentions légales les cookies F.A.Q.",
+      "updatedAt": "28/01/2026",
+      "createdAt": "28/01/2026",
+      "appearances": [
+        {
+          "date": "2026-11-06",
+          "label": "Carnin",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "url": "http://www.sabradou.com/62-pas-de-calais/c/conchil-le-temple/01-ASCOTE-11-Novembre-Noel.php",
+      "departmentCode": "62",
+      "departmentSlug": "pas-de-calais",
+      "departmentLabel": "62 Pas de Calais",
+      "postalCode": "62180",
+      "city": "Conchil le Temple",
+      "cityUrl": "http://conchil-le-temple.fr/",
+      "eventTypes": [
+        "chineur",
+        "braderie",
+        "brocante",
+        "rederie",
+        "bourse",
+        "marché de noel"
+      ],
+      "categories": [
+        "art",
+        "jouets",
+        "sports",
+        "disques",
+        "jouet",
+        "livre",
+        "multi",
+        "vêtements"
+      ],
+      "freeEntry": true,
+      "accessiblePMR": false,
+      "address": "62180 Conchil le Temple Agenda",
+      "scheduledDates": [
+        "dimanche 10 mai",
+        "dimanche 6 septembre",
+        "samedi 7 novembre",
+        "dimanche 8 novembre"
+      ],
+      "openingHours": [
+        "10h00–18h00"
+      ],
+      "pastEditions": [
+        "Samedi 7 Novembre 2026 de 10h00 à 18h00",
+        "Dimanche 8 Novembre 2026 de 10h00 à 18h00"
+      ],
+      "exhibitors": "Marché de Noel ArtisanalBourse aux jouets Inscription réservé aux particuliers AVEC réservation",
+      "updatedAt": "06/01/2026",
+      "appearances": [
+        {
+          "date": "2026-11-06",
+          "label": "Conchil le Temple",
+          "context": ""
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Conchil le Temple",
+          "context": ""
+        }
+      ]
+    }
+  ]
+}

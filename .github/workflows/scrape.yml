@@ -1,0 +1,131 @@
+# Geobrad — Scraping automatique + Pull Request de mise à jour
+#
+# Planification : tous les jours à 06h00 UTC (8h Paris en été).
+# Peut aussi être déclenché manuellement (workflow_dispatch).
+#
+# Si le scraper produit de nouveaux fichiers, un PR est ouvert
+# automatiquement sur main avec les données mises à jour.
+
+name: Scrape & Update Dataset
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Tous les jours à 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Forcer le scraping même si les données ont moins de 24h'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        id: scraper
+        run: |
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            node scraper_brocabrac.js --force 2>&1 | tee scraper.log
+          else
+            node scraper_brocabrac.js --force 2>&1 | tee scraper.log
+          fi
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --name-only -- events_data_brocabrac.js events_brocabrac.json scrape-changelog.json > changed_files.txt
+          git status --short -- events_data_brocabrac.js events_brocabrac.json scrape-changelog.json >> changed_files.txt || true
+
+          if git diff --quiet -- events_data_brocabrac.js events_brocabrac.json; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "Aucune nouvelle donnée détectée."
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            echo "Nouvelles données détectées."
+          fi
+
+      - name: Extract stats from log
+        id: stats
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          TOTAL=$(grep -oP '(?<=Total : )\d+' scraper.log | tail -1 || echo "?")
+          echo "total=${TOTAL}" >> "$GITHUB_OUTPUT"
+
+          DATE=$(date '+%Y-%m-%d')
+          echo "date=${DATE}" >> "$GITHUB_OUTPUT"
+
+          BRANCH="dataset/scrape-${DATE}-${GITHUB_RUN_NUMBER}"
+          echo "branch=${BRANCH}" >> "$GITHUB_OUTPUT"
+
+      - name: Create branch and commit
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "${{ steps.stats.outputs.branch }}"
+
+          git add events_data_brocabrac.js events_brocabrac.json scrape-changelog.json
+          git commit -m "data: scraping du ${{ steps.stats.outputs.date }} — ${{ steps.stats.outputs.total }} événements"
+
+          git push origin "${{ steps.stats.outputs.branch }}"
+
+      - name: Open Pull Request
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const branch = '${{ steps.stats.outputs.branch }}';
+            const date   = '${{ steps.stats.outputs.date }}';
+            const total  = '${{ steps.stats.outputs.total }}';
+
+            const { data: pr } = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              title: `[Dataset] Mise à jour du scraping — ${date} (${total} événements)`,
+              head:  branch,
+              base:  'main',
+              body: [
+                '## Mise à jour automatique du dataset',
+                '',
+                `| Champ | Valeur |`,
+                `|---|---|`,
+                `| Date du scraping | ${date} |`,
+                `| Événements scrapés | ${total} |`,
+                `| Déclencheur | \`${context.eventName}\` |`,
+                `| Run | [#${context.runNumber}](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) |`,
+                '',
+                '### Fichiers modifiés',
+                '- `events_data_brocabrac.js` — données chargées par les pages HTML',
+                '- `events_brocabrac.json` — données brutes JSON',
+                '- `scrape-changelog.json` — historique des scrapes',
+                '',
+                '> Merger ce PR pour mettre à jour les données affichées sur GitHub Pages.',
+              ].join('\n'),
+            });
+
+            core.notice(`Pull Request créée : ${pr.html_url}`);
+
+      - name: No changes summary
+        if: steps.changes.outputs.has_changes == 'false'
+        run: echo "✅ Dataset déjà à jour, aucun PR créé."

@@ -1,0 +1,17 @@
+{
+  "name": "sabradou-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for sabradou.com — agenda des braderies/brocantes",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0",
+    "iconv-lite": "^0.7.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
